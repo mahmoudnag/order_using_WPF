@@ -1,0 +1,25 @@
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\resturant order.csproj.AssemblyReference.cache
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\MainWindow.g.cs
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\App.g.cs
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\resturant order_MarkupCompile.cache
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\resturant order_MarkupCompile.lref
+J:\inertOOP\blazor projects\resturant order\resturant order\bin\Debug\net6.0-windows\resturant order.exe
+J:\inertOOP\blazor projects\resturant order\resturant order\bin\Debug\net6.0-windows\resturant order.deps.json
+J:\inertOOP\blazor projects\resturant order\resturant order\bin\Debug\net6.0-windows\resturant order.runtimeconfig.json
+J:\inertOOP\blazor projects\resturant order\resturant order\bin\Debug\net6.0-windows\resturant order.dll
+J:\inertOOP\blazor projects\resturant order\resturant order\bin\Debug\net6.0-windows\resturant order.pdb
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\MainWindow.baml
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\resturant order.g.resources
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\resturant order.GeneratedMSBuildEditorConfig.editorconfig
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\resturant order.AssemblyInfoInputs.cache
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\resturant order.AssemblyInfo.cs
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\resturant order.csproj.CoreCompileInputs.cache
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\resturant order.dll
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\refint\resturant order.dll
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\resturant order.pdb
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\resturant order.genruntimeconfig.cache
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\ref\resturant order.dll
+J:\inertOOP\blazor projects\resturant order\resturant order\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+J:\inertOOP\blazor projects\resturant order\resturant order\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+J:\inertOOP\blazor projects\resturant order\resturant order\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+J:\inertOOP\blazor projects\resturant order\resturant order\obj\Debug\net6.0-windows\resturant order.csproj.CopyComplete

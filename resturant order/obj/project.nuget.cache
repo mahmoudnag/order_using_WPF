@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZVkpqQfiEssomE5Ql2yXFtyxgVAsIVxXsVWmPjPZozHBNm6ZAZfI01UJTxHK6MADSvZdxzs1wu+j8jrb7Wucbg==",
+  "success": true,
+  "projectFilePath": "J:\\inertOOP\\blazor projects\\resturant order\\resturant order\\resturant order.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EL-Bustan\\.nuget\\packages\\materialdesigncolors\\2.1.1\\materialdesigncolors.2.1.1.nupkg.sha512",
+    "C:\\Users\\EL-Bustan\\.nuget\\packages\\materialdesignthemes\\4.7.1\\materialdesignthemes.4.7.1.nupkg.sha512",
+    "C:\\Users\\EL-Bustan\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
